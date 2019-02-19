@@ -1,1 +1,2 @@
 changes done from merge branch
+new line
